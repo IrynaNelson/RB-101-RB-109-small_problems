@@ -7,11 +7,6 @@ def reverse_words(string)
       word
     end
   end
-  # if words >= 5
-  #   puts string.reverse
-  # else
-  #   puts string
-  # end
   puts new_words.join(' ')
 end
 
